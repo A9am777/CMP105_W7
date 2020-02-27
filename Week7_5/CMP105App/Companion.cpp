@@ -11,6 +11,7 @@ Companion::Companion()
 
 Companion::~Companion()
 {
+
 }
 
 void Companion::update(float dt)

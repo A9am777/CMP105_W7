@@ -31,7 +31,7 @@ void Level::render()
 {
 	beginDraw();
 	window->draw(player);
-	window->draw(*(player.getCompanion()));
+	//window->draw(*(player.getCompanion()));
 	endDraw();
 }
 
